@@ -452,3 +452,9 @@ margin-left: 10px;
 .detail {
 margin-bottom: 5px;
 }
+button{
+	font-size: 15px;
+	font-weight: bold;
+	height: 40px;
+	width: 150px;
+}
